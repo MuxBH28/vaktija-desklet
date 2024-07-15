@@ -5,7 +5,7 @@
     "prevent-decorations": false,
     "icon": "icon.png",
     "about": {
-        "version": "1.0",
+        "version": "1.1",
         "author": "MuxBH28",
         "website": "https://github.com/MuxBH28/vaktija-desklet",
         "description": "This desklet fetches and displays prayer times using data from vaktija.ba API.",
