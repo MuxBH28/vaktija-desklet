@@ -1,4 +1,4 @@
-# This project is no londer maintained on this repository! 
+# This project is no longer maintained on this repository! 
 This project is available at offical Linux Mint repository: [cinnamon-spices-desklets](https://github.com/linuxmint/cinnamon-spices-desklets/tree/master/vaktija-desklet%40MuxBH28)
 
 # Vaktija Desklet
